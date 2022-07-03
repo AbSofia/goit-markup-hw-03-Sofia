@@ -1,3 +1,3 @@
-# goit-markup-hw-02-Sofia
+# goit-markup-hw-03-Sofia
 
-Selectores y Color
+Add styles for geometry (width, margins, paddings and borders) and content positioning with Flexbox for page layout of
